@@ -1,6 +1,6 @@
 Requirements to build project:
-Java 17
-Maven 3.8.x
+- Java 17
+- Maven 3.8.x
 
 To Build:
 `mvn install`
