@@ -32,7 +32,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.RefHierarchyProblem</mainClass>
+                            <mainClass>org.example.AverageNodes</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
